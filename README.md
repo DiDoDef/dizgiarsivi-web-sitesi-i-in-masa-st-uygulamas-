@@ -1,2 +1,2 @@
-# dizgiarsivi-web-sitesi-i-in-masa-st-uygulamas-
+# dizgiarsivi web sitesi icin masaustu uygulaması
 dizgiarsivi web sitesi için masaüstü uygulaması tasarladım
